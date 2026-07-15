@@ -12,7 +12,7 @@ botonMas.addEventListener("click", function () {
         numero.style.color = "yellow";
     }
     else {
-    numero.style.color = "black"; 
+        numero.style.color = "black";
     }
 });
 
